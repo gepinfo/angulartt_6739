@@ -3,4 +3,5 @@
   "integrations": {
     "cordova": {}
   },
-  "type
+  "type": "ionic-angular"
+}
